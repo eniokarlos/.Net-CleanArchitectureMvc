@@ -92,3 +92,6 @@ C:\Users\enio\Desktop\workspace\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Ar
 C:\Users\enio\Desktop\workspace\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.WebUi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\enio\Desktop\workspace\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\enio\Desktop\workspace\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+c:\Users\enio\Desktop\workspace\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net6.0\MediatR.dll
+c:\Users\enio\Desktop\workspace\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\enio\Desktop\workspace\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

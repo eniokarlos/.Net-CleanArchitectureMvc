@@ -44,6 +44,17 @@ namespace CleanArchMvc.Domain.Entities
 
         }
 
+        public void Update(string name, 
+        string description, 
+        decimal price, int stock,
+        string image)
+        {
+            this.Name = name;
+            this.Description = description;
+            this.Price = price;
+            this.Image = image;
+        }
+
         public Product(string name, 
         string description, 
         decimal price, int stock,

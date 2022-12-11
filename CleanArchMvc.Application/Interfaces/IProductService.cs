@@ -11,7 +11,6 @@ namespace CleanArchMvc.Application.Interfaces
         Task UpdateAsync(ProductDTO productDTO);
         Task AddAsync(ProductDTO productDTO);
         Task RemoveAsync(int? id);
-        Task<ProductDTO> GetProductCategoryAsync(int? id);
 
     }
 }

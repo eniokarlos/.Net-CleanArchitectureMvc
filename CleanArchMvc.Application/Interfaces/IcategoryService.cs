@@ -3,7 +3,7 @@ using CleanArchMvc.Application.DTOs;
 
 namespace CleanArchMvc.Application.Interfaces
 {
-    public interface IcategoryService
+    public interface ICategoryService
     {
         Task<CategoryDTO> GetByIdAsync(int? id);
         Task<IEnumerable<CategoryDTO>> GetCategoriesAsync();

@@ -6,7 +6,7 @@ using CleanArchMvc.Domain.Entities;
 
 namespace CleanArchMvc.Application.Services
 {
-    public class CategoryService : IcategoryService
+    public class CategoryService : ICategoryService
     {
         private readonly ICategoryRepository categoryRepository;
         private readonly IMapper mapper;
@@ -20,7 +20,6 @@ namespace CleanArchMvc.Application.Services
 
         public async Task AddAsync(CategoryDTO categoryDTO)
         {
-
             var CategoryEntity = mapper.Map<Category>(categoryDTO);
             await categoryRepository.CreateAsync(CategoryEntity);
         }

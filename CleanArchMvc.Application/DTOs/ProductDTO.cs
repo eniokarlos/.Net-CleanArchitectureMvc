@@ -24,8 +24,6 @@ namespace CleanArchMvc.Application.DTOs
 
         [Required(ErrorMessage = "Price is Required")]
         [Column(TypeName = "decimal(18,2)")]
-        [MinLength(2)]
-        [MaxLength(200)]
         [DisplayName("Price")]
         public decimal Price { get; set; }
 

@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "u58TxPtAxywrF4Q7sfsmRFKL72joq9VZKge8jsDTnV67Wzi9FAAdtQskE4B+Ed9VlArNrLqGa92pp5KzO73h4w==",
+  "dgSpecHash": "HPbzK42Pw0GfgdFuZAvyrX1pKFkeaJxQahnVZBO3XOIys/D5K9ocIowUxCLquGDlM3XpUglAXDKgGv6EoivGjA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\enio\\Desktop\\workspace\\Clean-Architecture_Udemy\\Projeto1_Curso_Clean_Architecture\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+  "projectFilePath": "C:\\Users\\enio\\Desktop\\workspace\\Clean-Architecture_Udemy\\Projeto1_Curso_Clean_Architecture\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\enio\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\enio\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\enio\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\enio\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []
