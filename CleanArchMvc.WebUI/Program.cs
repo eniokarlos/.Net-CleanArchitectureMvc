@@ -1,4 +1,5 @@
 using CleanArchMvc.Infra.IoC;
+using CleanArchMvc.Domain.Profiles;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,6 +22,9 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+//SeedUserRole(app);
+
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(
@@ -28,3 +32,13 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+// void SeedUserRole(IApplicationBuilder app)
+// {
+//     using(var serviceScope = app.ApplicationServices.CreateScope())
+//     {
+//         var seed = serviceScope.ServiceProvider.GetService<ISeedUserRoleInitial>();
+//         seed.SeedUsers();
+//         seed.SeedRoles();
+//     }
+// }

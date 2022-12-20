@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HPbzK42Pw0GfgdFuZAvyrX1pKFkeaJxQahnVZBO3XOIys/D5K9ocIowUxCLquGDlM3XpUglAXDKgGv6EoivGjA==",
+  "dgSpecHash": "ArkfLPq0PdQUJtVYMkQ3uvywfgri1McHPiFVcTmArPCbcesiv26Fdoh/muxgQK14y9amYBc/i8h8U5Giec79bA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\enio\\Desktop\\workspace\\Clean-Architecture_Udemy\\Projeto1_Curso_Clean_Architecture\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+  "projectFilePath": "C:\\Users\\enio\\Desktop\\workspace\\c-sharp-projects\\Clean-Architecture_Udemy\\Projeto1_Curso_Clean_Architecture\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\enio\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\enio\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",

@@ -95,3 +95,4 @@ C:\Users\enio\Desktop\workspace\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Ar
 c:\Users\enio\Desktop\workspace\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net6.0\MediatR.dll
 c:\Users\enio\Desktop\workspace\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net6.0\MediatR.Contracts.dll
 C:\Users\enio\Desktop\workspace\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\enio\Desktop\workspace\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

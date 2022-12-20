@@ -10,3 +10,15 @@ C:\Users\enio\Desktop\workspace\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Ar
 C:\Users\enio\Desktop\workspace\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.Domain\obj\Debug\net6.0\refint\CleanArchMvc.Domain.dll
 C:\Users\enio\Desktop\workspace\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.pdb
 C:\Users\enio\Desktop\workspace\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.Domain\obj\Debug\net6.0\ref\CleanArchMvc.Domain.dll
+c:\Users\enio\Desktop\workspace\c-sharp-projects\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.Domain\bin\Debug\net6.0\CleanArchMvc.Domain.deps.json
+c:\Users\enio\Desktop\workspace\c-sharp-projects\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.Domain\bin\Debug\net6.0\CleanArchMvc.Domain.dll
+c:\Users\enio\Desktop\workspace\c-sharp-projects\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.Domain\bin\Debug\net6.0\CleanArchMvc.Domain.pdb
+c:\Users\enio\Desktop\workspace\c-sharp-projects\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.csproj.AssemblyReference.cache
+c:\Users\enio\Desktop\workspace\c-sharp-projects\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\enio\Desktop\workspace\c-sharp-projects\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.AssemblyInfoInputs.cache
+c:\Users\enio\Desktop\workspace\c-sharp-projects\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.AssemblyInfo.cs
+c:\Users\enio\Desktop\workspace\c-sharp-projects\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.csproj.CoreCompileInputs.cache
+c:\Users\enio\Desktop\workspace\c-sharp-projects\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.dll
+c:\Users\enio\Desktop\workspace\c-sharp-projects\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.Domain\obj\Debug\net6.0\refint\CleanArchMvc.Domain.dll
+c:\Users\enio\Desktop\workspace\c-sharp-projects\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.pdb
+c:\Users\enio\Desktop\workspace\c-sharp-projects\Clean-Architecture_Udemy\Projeto1_Curso_Clean_Architecture\CleanArchMvc.Domain\obj\Debug\net6.0\ref\CleanArchMvc.Domain.dll

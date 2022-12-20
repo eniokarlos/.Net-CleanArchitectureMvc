@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FQnTvdPYKvM2JKJVH/V28WpuOsikDUkYWSdMMxRRS3CdivsFq5rimBADMksLcgpYTKFDjrRJEP4oCQCUVzPVRw==",
+  "dgSpecHash": "1IFXLILxwznVBL4NnW5Se3wlJrZBVlQNoPF2vV9i1NQoovlmfLQOznKx9ON9642pq/oCBWecqy52h/168BrY4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\enio\\Desktop\\workspace\\Clean-Architecture_Udemy\\Projeto1_Curso_Clean_Architecture\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\enio\\Desktop\\workspace\\c-sharp-projects\\Clean-Architecture_Udemy\\Projeto1_Curso_Clean_Architecture\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\enio\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\enio\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
